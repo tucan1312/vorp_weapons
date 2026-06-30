@@ -16,5 +16,4 @@ Modified, converted, and expanded by **Tucan**:
 * Integrated and adapted the data-binding weapon-store system.
 * Added weapon-customization camera handling and preview improvements.
 * Added native interaction prompts and shop interaction flow.
-* Applied VORP Core-compatible integration, cleanup, fixes, and additional configuration support.
 
