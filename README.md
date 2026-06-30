@@ -12,7 +12,9 @@ resources/[vorp]/vorp_weapons
 
 ```cfg
 ensure vorp_core
+ensure vorp_inventory
 ensure vorp_menu
+ensure vorp_progressbar
 ensure vorp_weapons
 ```
 
